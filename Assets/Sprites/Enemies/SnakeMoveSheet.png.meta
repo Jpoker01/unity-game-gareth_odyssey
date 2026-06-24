@@ -1,0 +1,327 @@
+fileFormatVersion: 2
+guid: 4557977e56c6c4178a25d9540b9d4417
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7617677318062589355
+    second: SnakeMoveSheet_0
+  - first:
+      213: 3003389898030846255
+    second: SnakeMoveSheet_1
+  - first:
+      213: -6064743300350047598
+    second: SnakeMoveSheet_2
+  - first:
+      213: 7737369847460275862
+    second: SnakeMoveSheet_3
+  - first:
+      213: 3134612315983928789
+    second: SnakeMoveSheet_4
+  - first:
+      213: 5920274294883669182
+    second: SnakeMoveSheet_5
+  - first:
+      213: -6345349816923768905
+    second: SnakeMoveSheet_6
+  - first:
+      213: 8862749539002242363
+    second: SnakeMove_0
+  - first:
+      213: -8654755082362924872
+    second: SnakeMove_1
+  - first:
+      213: -4623351079576650852
+    second: SnakeMove_2
+  - first:
+      213: -1553602125351593216
+    second: SnakeMove_3
+  - first:
+      213: -3133253559277262173
+    second: SnakeMove_4
+  - first:
+      213: 8361011157581180514
+    second: SnakeMove_5
+  - first:
+      213: -4927893346146740908
+    second: SnakeMove_6
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SnakeMove_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 90
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b355c75bfbfcefa70800000000000000
+      internalID: 8862749539002242363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnakeMove_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 91
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b050c18b1224e780800000000000000
+      internalID: -8654755082362924872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnakeMove_2
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 62
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9b3aed40be86dfb0800000000000000
+      internalID: -4623351079576650852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnakeMove_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 62
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00b502c291f707ae0800000000000000
+      internalID: -1553602125351593216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnakeMove_4
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 32
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aaec001d727484d0800000000000000
+      internalID: -3133253559277262173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnakeMove_5
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 32
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26e24ba6957480470800000000000000
+      internalID: 8361011157581180514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnakeMove_6
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45599eb5c1b9c9bb0800000000000000
+      internalID: -4927893346146740908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SnakeMoveSheet_0: 7617677318062589355
+      SnakeMoveSheet_1: 3003389898030846255
+      SnakeMoveSheet_2: -6064743300350047598
+      SnakeMoveSheet_3: 7737369847460275862
+      SnakeMoveSheet_4: 3134612315983928789
+      SnakeMoveSheet_5: 5920274294883669182
+      SnakeMoveSheet_6: -6345349816923768905
+      SnakeMove_0: 8862749539002242363
+      SnakeMove_1: -8654755082362924872
+      SnakeMove_2: -4623351079576650852
+      SnakeMove_3: -1553602125351593216
+      SnakeMove_4: -3133253559277262173
+      SnakeMove_5: 8361011157581180514
+      SnakeMove_6: -4927893346146740908
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
