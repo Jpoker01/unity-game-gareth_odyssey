@@ -9,7 +9,7 @@ lost artefacts in vivid dreams of the island's past to fill his fledgling museum
 in modern Heraklion. This build delivers **Level 2 — Ancient Gortyna (Roman
 era)** as a complete, playable vertical slice.
 
-### ▶ [Play it now in your browser](https://play.unity.com/en/games/35ff710d-d7f1-42c0-83b3-dcba44b5f08b/builds)
+### <a href="https://play.unity.com/en/games/35ff710d-d7f1-42c0-83b3-dcba44b5f08b/builds" target="_blank" rel="noopener noreferrer">▶ Play it now in your browser</a>
 
 ![Gareth meets a Roman sentry in the ruins of Gortyna](gareth3.png)
 
