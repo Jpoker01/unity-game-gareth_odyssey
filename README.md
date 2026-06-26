@@ -25,11 +25,11 @@ This build focuses on one finished level rather than trying to implement the ent
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="Assets/gareth2.png" width="100%" alt="A rebel camp tucked into the cliffs of Gortyna"/>
+      <img src="Assets/gareth1.png" width="100%" alt="A rebel camp tucked into the cliffs of Gortyna"/>
       <br/>
     </td>
     <td align="center" width="50%">
-      <img src="Assets/gareth1.png" width="100%" alt="Olive groves giving way to marble ruins"/>
+      <img src="Assets/gareth2.png" width="100%" alt="Olive groves giving way to marble ruins"/>
       <br/>
     </td>
   </tr>
