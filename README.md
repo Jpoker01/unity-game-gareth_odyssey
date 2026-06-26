@@ -1,16 +1,16 @@
 # The Gareth Odyssey
  
-*A 2D pixel-art platformer through the historical eras of Crete.*
+*A 2D pixel-art platformer bringing you through the historical eras of Crete.*
  
-Play as **Gareth Owens**, archaeologist and Cretan-script scholar, who recovers lost artefacts in vivid dreams of the island's past to fill his fledgling museum in modern Heraklion. This build delivers **Level 2 — Ancient Gortyna (Roman era)** as a complete, playable vertical slice.
+Play as **Gareth Owens**, archaeologist and Cretan script scholar, who recovers lost artefacts in vivid dreams of the island's past to fill his museum in modern Heraklion. This repository delivers **Level 2 — Ancient Gortyna ** as a complete, playable level taking place on Crete during its Roman era.
  
-### <a href="https://play.unity.com/en/games/35ff710d-d7f1-42c0-83b3-dcba44b5f08b/builds" target="_blank" rel="noopener noreferrer">▶ Play it now in your browser</a>
+### <a href="https://play.unity.com/en/games/35ff710d-d7f1-42c0-83b3-dcba44b5f08b/builds" target="_blank" rel="noopener noreferrer">▶ Play it in your browser</a>
  
-![Gareth meets a Roman sentry in the ruins of Gortyna](Assets/gareth3.png)
+![gareth3](Assets/gareth3.png)
  
 ---
  
-## The Build at a Glance
+## Build Overview
  
 This milestone concentrates everything on one finished level rather than four partial ones. **Level 2** ships with finished art, five enemies, checkpoints, a working HUD, all four difficulty settings, and a full intro-to-completion loop. Levels 1, 3, and 4 remain at the design stage.
  
