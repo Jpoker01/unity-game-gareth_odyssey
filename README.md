@@ -16,8 +16,6 @@ This build focuses on one finished level rather than trying to implement the ful
  
 > **Your goal:** travel through the ruins of Gortyna - from open olive groves into dense marble ruins — and recover the **Law Code of Gortyn** before your lives run out.
  
-![](Assets/gareth1.png)
- 
 ---
  
 ## Gameplay
