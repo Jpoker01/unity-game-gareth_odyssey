@@ -39,16 +39,16 @@ This build focuses on one finished level rather than trying to implement the ent
  
 ## Gameplay
  
-- **Avoidance-based gameplay** - The player has no weapons or ranged attacks. Progress depends on timing, observation, and careful navigation through encounters with the enemies.
-- **Stomp option.** - Land directly on enemies to defeat them - any other contact knocks Gareth back and costs him one life, so a mistimed stomp is just a normal hit.
-- **Checkpoints (stelae).** - Walk past a stele to light it and save your spot. Fall into a pit and you respawn there, minus one life. Run out of lives and the level restarts from the beginning.
-- **Historical framing.** An intro panel sets the era's context; a completion panel names and describes the recovered artefact.
+- **Avoidance-based gameplay** — The player has no weapons or ranged attacks. Progress depends on timing, observation, and careful navigation through encounters with the enemies.
+- **Stomp option** — Land directly on enemies to defeat them - any other contact knocks Gareth back and costs him one life.
+- **Checkpoints** — Light an obelisk by walking past it to save your progress. Fall into a pit and you'll respawn at the last one you lit, losing a life. Run out of lives and the level restarts from the beginning.
+- **Historical framing** — An intro panel sets the era's context. The completion panel names and describes the recovered artefact.
 
 <p align="center">
   <img src="Assets/gareth_anim2.gif">
 </p>
  
-*A checkpoint lights up as Gareth passes — if the player falls on a death zone, they are respawned there (without one life).*
+*An obelisk lights up as Gareth passes — if the player falls on a death zone, they are respawned there (without one life).*
  
 ---
  
@@ -63,8 +63,8 @@ This build focuses on one finished level rather than trying to implement the ent
  
 ## Enemies — Level 2
  
-Five hand-tuned state machines that share only the contact/stomp rule:
- 
+Four types of enemy AIs:
+
 - **Legionarius** — Patrols a fixed route. Raises an alert if you enter his proximity.
 - **Sagittarius** — Stationary enemy that fires arrows in predictable time period. It tracks the player by turning to face them, but does not move or chase.
 - **Agrios Xoiros** — Wild boar that charges in a straight line after noticing you.
