@@ -78,17 +78,17 @@ Four types of enemy AIs:
 
 ## Difficulty
  
-| Difficulty level | Lives | Notes                                                                          |
+| Difficulty level | Lives | Notes                                                                      |
 |------------------|---|--------------------------------------------------------------------------------|
 | Easy             | ∞ | Explore and read the history. There is no limit to how many times you respawn. |
 | Medium           | 5 | Balanced gameplay - Recommended difficulty for first playthrough               |
 | Hard             | 3 | Demanding - enemy timings are also made more tough.                            |
-| Impossible       | 1 | One hit results in the loss                                                   |
+| Impossible       | 1 | One hit ends your playthrough.                                                 |
   
 ---
  
 ## Tech
  
-- **Engine:** Unity 6.4 (6000.4.2f1), URP set up for 2D, new Input System.
-- **Platform:** PC (Windows / macOS), fully offline.
+- **Engine:** Unity 6.4 (6000.4.2f1)
+- **Platform:** PC (Windows / macOS)
 ---
