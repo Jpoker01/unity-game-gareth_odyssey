@@ -6,7 +6,7 @@ Play as **Gareth Owens**, archaeologist and Cretan script scholar, who recovers 
  
 ### <a href="https://play.unity.com/en/games/35ff710d-d7f1-42c0-83b3-dcba44b5f08b/builds" target="_blank" rel="noopener noreferrer">▶ Play it in your browser</a>
  
-![gareth3](Assets/gareth3.png)
+![](Assets/lowres_anim_gareth1.gif)
  
 ---
  
@@ -76,7 +76,7 @@ Higher settings shorten Sagittarius's draw time and Agrios Xoiros's alert delay,
  
 *A rebel camp tucked into the cliffs — explorable detail between the platforming beats.*
  
-![Animated camp scene](Assets/lowres_gareth_anim1.gif)
+![Animated camp scene](Assets/gareth1.png)
  
 *The same camp in motion: campfire, drifting cloth, in-engine sprite animation.*
  
