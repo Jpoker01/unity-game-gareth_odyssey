@@ -18,7 +18,22 @@ Play as **Gareth Owens**, archaeologist and Cretan script scholar, who recovers 
  
 This build focuses on one finished level rather than trying to implement the entire game concept. **Level 2** is realized with finished art, multiple types of enemies, player-activated checkpoints, a functional user interface (health display, difficulty setting, restart). Levels 1, 3, and 4 remain at the design stage.
  
-> **Your goal:** travel through the ruins of Gortyna - from open olive groves into dense marble ruins — and recover the **Law Code of Gortyn** before your lives run out.
+> **Your goal:** travel through the ruins of Gortyna - from open olive groves into dense marble ruins — and recover the **Law Code of Gortyn** before your lives run out.  
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="Assets/gareth2.png" width="100%" alt="A rebel camp tucked into the cliffs of Gortyna"/>
+      <br/>
+      <sub>A rebel camp tucked into the cliffs</sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="Assets/gareth1.png" width="100%" alt="Olive groves giving way to marble ruins"/>
+      <br/>
+      <sub>From open olive groves into dense marble ruins</sub>
+    </td>
+  </tr>
+</table>
  
 ---
  
