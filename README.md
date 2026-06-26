@@ -5,7 +5,7 @@
 Play as **Gareth Owens**, archaeologist and Cretan script scholar, who recovers lost artefacts in vivid dreams of the island's past to fill his museum in modern Heraklion. This repository delivers **Level 2 — Ancient Gortyna** as a complete, playable level taking place on Crete during its Roman era.
  
 <p align="center">
-  <a href="YOUR_GAME_LINK">▶️ Play it in your browser</a>
+  ### <a href="YOUR_GAME_LINK">▶️ Play it in your browser</a>
 </p>
 
 <div align="center">
