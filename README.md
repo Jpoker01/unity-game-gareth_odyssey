@@ -25,11 +25,11 @@ This build focuses on one finished level rather than trying to implement the ent
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="Assets/gareth1.png" width="100%" alt="A rebel camp tucked into the cliffs of Gortyna"/>
+      <img src="Assets/gareth1.png" width="100%"/>
       <br/>
     </td>
     <td align="center" width="50%">
-      <img src="Assets/gareth2.png" width="100%" alt="Olive groves giving way to marble ruins"/>
+      <img src="Assets/gareth2.png" width="100%"/>
       <br/>
     </td>
   </tr>
@@ -48,7 +48,7 @@ This build focuses on one finished level rather than trying to implement the ent
   <img src="Assets/gareth_anim2.gif">
 </p>
  
-*An obelisk lights up as Gareth passes — if the player falls on a death zone, they are respawned there (without one life).*
+*An obelisk lights up (activates) as Gareth passes — if the player dies, they are respawned there.*
  
 ---
  
@@ -66,7 +66,7 @@ This build focuses on one finished level rather than trying to implement the ent
 Four types of enemy AIs:
 
 - **Legionarius** — Patrols a fixed route. Raises an alert if you enter his proximity.
-- **Sagittarius** — Stationary enemy that fires arrows in predictable time period. It tracks the player by turning to face them, but does not move or chase.
+- **Sagittarius** — Stationary enemy that fires arrows at predictable time intervals. It tracks the player by turning to face them, but does not move or chase.
 - **Agrios Xoiros** — Wild boar that charges in a straight line after noticing you.
 - **Macrovipera** — Snake enemy that rears up and strikes in a quick forward attack, similar to the boar.  
 
@@ -91,4 +91,5 @@ Four types of enemy AIs:
  
 - **Engine:** Unity 6.4 (6000.4.2f1)
 - **Platform:** PC (Windows / macOS)
+
 ---
