@@ -25,12 +25,10 @@ This build focuses on one finished level rather than trying to implement the ent
     <td align="center" width="50%">
       <img src="Assets/gareth2.png" width="100%" alt="A rebel camp tucked into the cliffs of Gortyna"/>
       <br/>
-      <sub>A rebel camp tucked into the cliffs</sub>
     </td>
     <td align="center" width="50%">
       <img src="Assets/gareth1.png" width="100%" alt="Olive groves giving way to marble ruins"/>
       <br/>
-      <sub>From open olive groves into dense marble ruins</sub>
     </td>
   </tr>
 </table>
@@ -84,10 +82,6 @@ Five hand-tuned state machines that share only the contact/stomp rule:
 | Medium           | 5 | Balanced gameplay - Recommended difficulty for first playthrough               |
 | Hard             | 3 | Demanding - enemy timings are also made more tough.                            |
 | Impossible       | 1 | One hit results in the loss                                                   |
-  
-![A rebel camp tucked into the cliffs](Assets/gareth2.png)
-  
-![Animated camp scene](Assets/gareth1.png)
   
 ---
  
